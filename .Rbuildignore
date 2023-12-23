@@ -1,0 +1,16 @@
+^data-raw$
+^docs$
+^pkgdown$
+^\.github$
+^\.travis\.yml$
+^_pkgdown\.yml$
+^codecov\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+^tests/manual_tests
+^README\.md$
+^\.httr-oauth$
+^gmail_
+^LICENSE\.md$
+inst/examples/rsconnect
+^vignettes$
